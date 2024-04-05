@@ -1,0 +1,91 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyAugmentAssignmentInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyBehaveInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyClassicStyleClassInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.10" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyMandatoryEncodingInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="37">
+            <item index="0" class="java.lang.String" itemvalue="timm" />
+            <item index="1" class="java.lang.String" itemvalue="yapf" />
+            <item index="2" class="java.lang.String" itemvalue="addict" />
+            <item index="3" class="java.lang.String" itemvalue="tqdm" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="seaborn" />
+            <item index="6" class="java.lang.String" itemvalue="thop" />
+            <item index="7" class="java.lang.String" itemvalue="opencv-python" />
+            <item index="8" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="9" class="java.lang.String" itemvalue="psutil" />
+            <item index="10" class="java.lang.String" itemvalue="scipy" />
+            <item index="11" class="java.lang.String" itemvalue="numba" />
+            <item index="12" class="java.lang.String" itemvalue="matplotlib" />
+            <item index="13" class="java.lang.String" itemvalue="cityscapesscripts" />
+            <item index="14" class="java.lang.String" itemvalue="torch" />
+            <item index="15" class="java.lang.String" itemvalue="numpy" />
+            <item index="16" class="java.lang.String" itemvalue="torchvision" />
+            <item index="17" class="java.lang.String" itemvalue="pycocotools" />
+            <item index="18" class="java.lang.String" itemvalue="coremltools" />
+            <item index="19" class="java.lang.String" itemvalue="opencv_python" />
+            <item index="20" class="java.lang.String" itemvalue="Pillow" />
+            <item index="21" class="java.lang.String" itemvalue="panopticapi" />
+            <item index="22" class="java.lang.String" itemvalue="torchmetrics" />
+            <item index="23" class="java.lang.String" itemvalue="wandb" />
+            <item index="24" class="java.lang.String" itemvalue="onnxruntime" />
+            <item index="25" class="java.lang.String" itemvalue="onnx" />
+            <item index="26" class="java.lang.String" itemvalue="submitit" />
+            <item index="27" class="java.lang.String" itemvalue="autoflake" />
+            <item index="28" class="java.lang.String" itemvalue="hydra-core" />
+            <item index="29" class="java.lang.String" itemvalue="pytest" />
+            <item index="30" class="java.lang.String" itemvalue="black" />
+            <item index="31" class="java.lang.String" itemvalue="cloudpickle" />
+            <item index="32" class="java.lang.String" itemvalue="isort" />
+            <item index="33" class="java.lang.String" itemvalue="einops" />
+            <item index="34" class="java.lang.String" itemvalue="pybind11" />
+            <item index="35" class="java.lang.String" itemvalue="flake8" />
+            <item index="36" class="java.lang.String" itemvalue="omegaconf" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions.ada_cluster" />
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions._ada_cluster" />
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions._weighted_sum" />
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions._broadcast" />
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions.broadcast" />
+          <option value="Adaptive_Cluster_Transformer.ACT.extensions.weighted_sum" />
+          <option value="models.dino.matcher.matching_matrix" />
+          <option value="python基础.pigLatin.元素" />
+          <option value="python基础.pigLatin.函数体" />
+          <option value="python基础.pigLatin.一行代码" />
+          <option value="python基础.pigLatin.mode" />
+          <option value="python基础.pigLatin.name" />
+          <option value="python基础.pigLatin.encoding" />
+          <option value="python基础.test.提示语句" />
+          <option value="python基础.test.可能出错的语句" />
+          <option value="heima.可视化案例.GDP动态柱状图开发.方法体" />
+          <option value="heima.面向对象.类型注解.data" />
+          <option value="heima.面向对象.类型注解.func" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
